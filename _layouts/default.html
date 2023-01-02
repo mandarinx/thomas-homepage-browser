@@ -7,21 +7,15 @@
 
     {% include header.html %}
 
-<ul>
-{% for link in site.data.links %}
-  <li>
-    <a href="{{ link.url }}">
-      {{ link.name }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <ul>
+    {% for link in site.data.links %}
+      <li>
+        <a href="{{ link.url }}">
+          {{ link.name }}
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
 
     {% include footer.html %}
 
