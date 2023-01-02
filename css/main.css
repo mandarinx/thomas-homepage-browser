@@ -1,0 +1,19 @@
+body {
+  background-color: #16213E;
+  color: white;
+}
+
+a {
+    color: #E94560;
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+      background-color: white;
+      color: #16213E;
+    }
+
+    a {
+        color: #533483;
+    }
+}
