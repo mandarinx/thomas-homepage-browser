@@ -17,6 +17,9 @@
 - name: Mastodon
   url: https://mastodon.gamedev.place/
 
+- name: GameDiscovery Plus
+  url: https://plus.gamediscover.co/
+
 - name: PDF Compress
   url: https://docupub.com/pdfcompress/
 
