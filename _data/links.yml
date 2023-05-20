@@ -2,9 +2,6 @@
 - name: Notion
   url: https://www.notion.so/qvistengames
 
-- name: Studio Q
-  url: https://studio.qvisten.no/
-
 - name: Feedbin
   url: https://feedbin.com/
 
@@ -29,26 +26,14 @@
 - name: Online PDF Converter
   url: https://online2pdf.com/
 
+- name: ezgif
+  url: https://ezgif.com/
+
 - name: TinyWow
   url: https://tinywow.com/
 
 - name: Ordbøkene
   url: https://ordbokene.no/
-
-- name: Open peeps
-  url: https://openpeeps.com/
-
-- name: Shapefest
-  url: https://www.shapefest.com/
-
-- name: Scribbbles
-  url: https://www.scribbbles.design/
-
-- name: Spline
-  url: https://spline.design/
-
-- name: Randoma11y
-  url: https://randoma11y.com/
 
 - name: Unsplash
   url: https://unsplash.com/
