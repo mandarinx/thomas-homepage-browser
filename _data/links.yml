@@ -2,6 +2,9 @@
 - name: Notion
   url: https://www.notion.so/qvistengames
 
+- name: Fiken
+  url: https://fiken.no/
+
 - name: Feedbin
   url: https://feedbin.com/
 
@@ -10,6 +13,9 @@
 
 - name: Twitter
   url: https://twitter.com/
+
+- name: Bluesky
+  url: https://bsky.app/
 
 - name: Mastodon
   url: https://mastodon.gamedev.place/
